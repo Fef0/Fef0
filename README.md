@@ -1,5 +1,5 @@
 # Hi there, I'm [Fef0](https://github.com/Fef0)!
-- 🐧 Linux user
+- 🐧 GNU/Linux user
 - 🎓 Currently studying Computer Science at University of Catania
 - 🔭 Fascinated by low level computing and microcontrollers
 - 💻 Currently using Golang on a daily basis for personal projects and Telegram bots
